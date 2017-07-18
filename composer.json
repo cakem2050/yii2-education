@@ -1,16 +1,9 @@
 {
-  "repositories": [
-  {
-      "type":"package",
-      "package": {
-        "name": "cakem2050/test",
-        "version":"master",
-        "source": {
-            "url": "https://github.com/cakem2050/yii2-education.git",
-            "type": "git",
-            "reference":"master"
-          }
-      }
-  }
-]
+  "name": "cakem2050/blog",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cakem2050/yii2-education.git"
+        }
+    ]
 }
