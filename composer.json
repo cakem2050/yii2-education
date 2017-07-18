@@ -5,5 +5,8 @@
             "type": "vcs",
             "url": "https://github.com/cakem2050/yii2-education.git"
         }
-    ]
+    ],
+    "require": {
+        "acme/hello-world": "dev-master"
+    }
 }
